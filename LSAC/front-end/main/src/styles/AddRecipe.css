@@ -1,0 +1,103 @@
+.add-recipe-button.add {
+    position: relative !important;
+    left: 0%;
+    transform: translateX(0%) !important;
+    bottom: 0;
+    font-size: 26px;
+  }
+  #root {
+    min-height: 100vh;
+  }
+  .main.mobil {
+    min-height: 0;
+  }
+  .add-recipe-button.add.mobile, .add-recipe-button.login.add.mobile {
+    font-size: 16px;
+    padding: 1vh 8vw;
+    border-radius: 15px;
+  }
+  .profil.mobile {
+    padding-top: 12vh;
+    align-items: baseline;
+  }
+  .upload-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border: 2px solid white; 
+    color: white; 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 1.2vh 1.5vw; 
+    border-radius: 20px; 
+    cursor: pointer;
+    transition: all 0.3s ease; 
+  }
+  .upload-button.mobil {
+    top: -2vh;
+    border-radius: 15px;
+    position: relative;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 1.2vh 3.5vw;
+  }
+  
+  .upload-button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .upload-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px; 
+  }
+  .informatiiBucatar.add {
+    justify-content: space-evenly;
+    padding-top: 3vh;
+    width: 30vw;
+    height: 50vh;
+  }
+  .informatiiBucatar.add.mobil {
+    width: 85vw;
+    height: 40vh;
+  }
+  .content-nickname.informatii.add {
+    width: 25vw;
+}
+.content-nickname.informatii.add.mobil {
+  width: 70vw;
+}
+@media screen and (max-width: 1400px) {
+    .informatiiBucatar.add {
+        width: 40vw;
+      }
+      .content-nickname.informatii.add {
+        width: 35vw;
+      }
+      .add-recipe-button.add {
+        font-size: 20px;
+      }
+}
+.imgtext {
+  padding-top: 1vh;
+  color: white;
+}
+textarea.nickname {
+  background-color: #00236D;
+  border: 0;
+  color: white;
+  height: 100%;
+  overflow-y: hidden;
+  field-sizing: content;
+  resize: none;
+  
+}
+textarea.nickname::placeholder {
+  color: white;
+}
+textarea.nickname:focus {
+  color: white;
+  border: 0;
+}

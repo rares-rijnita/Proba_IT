@@ -1,0 +1,108 @@
+.homepageLogo {
+    margin-bottom: 2dvh;
+    width: 27vmax;
+    display: flex;
+    justify-content: center;
+    padding-left: 7vw;
+    align-items: center;
+}
+
+.topRated h2 {
+    padding-top: 4vh;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+
+    color: #FFFFFF;
+    padding-bottom: 2vh;
+
+}
+
+.items {
+    justify-content: space-evenly;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    min-height: 28vh;
+    flex-wrap: wrap;
+    padding-bottom: 7vh;
+}
+
+.item {
+    margin-top: 5vh;
+    background-color: #F8F8F8;
+}
+
+.item img {
+    display: flex;
+    height: 28vh;
+    max-width: 13vw;
+}
+@media  screen and (max-width: 1500px) {
+    .item img {max-width: 20vw;}
+}
+@media  screen and (max-width: 1000px) {
+    .item img {max-width: 25vw;}
+}
+@media  screen and (max-width: 600px) {
+    .item img {max-width: 35vw;}
+}
+.informatii {
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+.homepage {
+    height: 100vh;
+}
+
+.linie {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    min-height: 20vh !important;
+    width: auto !important;
+}
+
+.topRated {
+    width: 100vw;
+    left: 0;
+    min-height: 40vh;
+    background: #00236D;
+}
+
+.titlureteta {
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.informatiisuplimentare {
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    text-align: center;
+    color: #000000;
+}
+
+.autor {
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.stars {
+    font-size: 2rem;
+    color: #f4c542;
+  }

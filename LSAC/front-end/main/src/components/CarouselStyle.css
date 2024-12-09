@@ -1,0 +1,32 @@
+@media screen and (max-width: 1000px) {
+  .titlureteta {
+    font-size: 14px;
+    padding-top: 1vh;
+    margin-bottom: -1vh;
+  }
+}
+
+.carousel-button:hover {
+  background-color: #009c41;
+  color: white;
+}
+
+.carousel-button.next-btn {
+  right: -35px;
+}
+
+.carousel-button.prev-btn {
+  left: -35px;
+}
+
+.informatii {
+  padding: 0 3vw;
+}
+
+.informatiisuplimentare {
+  font-size: 12px !important;
+}
+
+.autor {
+  font-size: 11px;
+}
