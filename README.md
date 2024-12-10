@@ -1,12 +1,5 @@
 # Proba-IT-2024-Template
 
-### Acest template public poate fi folosit pentru a vă crea repository-ul pentru proba tehnică. El permite și crearea automată de issue-uri, în concordanță cu task-urile probei:
-* **Homepage**
-* **Profile**
-* **Register & Login**
-* **Add Recipes Page**
-* **Recipes Page & Search**
-
 ### Funcționalități implementate:
 * **Homepage**
 * **Profil utilizator**
@@ -16,9 +9,12 @@
 * **Adăugare rețete**
 * **Design Mobile Responsive**
 
+Grad mare de modularitate pentru viitoare versiuni și implementarea ulterioară a capacităților de backend.
+
 ### Cunoștințe dobândite:
 * **Utilizarea React pentru dezvoltarea aplicației**
-* **Dezvoltarea interfețelor responsive pentru utilizator**
+* **Exersarea și aprofundarea noțiunilor de HTML și CSS**
+* **Contact și acumulare de cunoștințe introductive în Node.js**
 
 ### Structura proiectului
 #### Frontend
