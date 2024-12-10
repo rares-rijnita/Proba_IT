@@ -1,4 +1,4 @@
-# Proba-IT-2024-Template
+# Proba-IT-2024
 
 ### Funcționalități implementate:
 * **Homepage**
