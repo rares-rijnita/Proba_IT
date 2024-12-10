@@ -4,7 +4,6 @@
 * **Homepage**
 * **Profil utilizator**
 * **Login & Register**
-* **Gestionare cookies**
 * **Rețete și căutare**
 * **Adăugare rețete**
 * **Design Mobile Responsive**
