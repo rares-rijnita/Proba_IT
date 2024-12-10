@@ -13,8 +13,7 @@ Grad mare de modularitate pentru viitoare versiuni și implementarea ulterioară
 
 ### Cunoștințe dobândite:
 * **Utilizarea React pentru dezvoltarea aplicației**
-* **Exersarea și aprofundarea noțiunilor de HTML și CSS**
-* **Contact și acumulare de cunoștințe introductive în Node.js**
+* **Exersarea și aprofundarea noțiunilor de HTML și CSS si Node.js**
 
 ### Structura proiectului
 #### Frontend
